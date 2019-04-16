@@ -10,11 +10,12 @@ class MyHeader extends React.Component {
       <div>
         <Header transparent className="Header">
           <Navigation className="NavNames">
-            <a>Home</a>
+            <a href="center">Home</a>
             <a>About</a>
+            <a>Projects</a>
             <a href="https://www.linkedin.com/in/thads-michael-egar/">LinkedIn</a>
             <a href="https://github.com/ThadsMichaelEgar">GitHub</a>
-            <a>Projects</a>
+            <a>Resume</a>
           </Navigation>
         </Header>
       </div>

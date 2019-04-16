@@ -1,7 +1,8 @@
 .footer-container {
      text-align: center;
-     color: white;
-     position: absolute;
+     color: black;
+     background-color: rgb(105,105,105);
+     position: relative;
      left: 0;
      bottom: 0;
      height: 40px;

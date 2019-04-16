@@ -6,3 +6,7 @@
 .Content{
   background-color: rgba(0,0,0,0);
 }
+
+.Body{
+  overflow:auto;
+}
