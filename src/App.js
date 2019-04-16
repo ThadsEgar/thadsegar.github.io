@@ -6,6 +6,8 @@ import './App.css';
 import Header from './Header';
 import Footer from './Footer';
 import Youtube from './Youtube';
+import ContentLandingPage from './ContentLandingPage.js';
+import ContentAboutPage from './ContentAboutPage.js';
 
 //other
 import YouTube from 'react-youtube';
@@ -17,7 +19,10 @@ class App extends Component {
       <div className="App">
         <div className="Content">
           <Header />
-          <Youtube />
+
+          <ContentLandingPage />
+          <ContentAboutPage />
+
           <Footer />
         </div>
       </div>
