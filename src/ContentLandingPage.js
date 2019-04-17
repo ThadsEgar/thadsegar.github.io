@@ -6,36 +6,62 @@ class ContentLandingPage extends Component{
       <div className="content">
         <div className="center">
           <h1 className="top">
-            My goal is to observe and learn from those who are wiser than me in order to mold my own character.
+             Aspiring Full-Stack Software Engineer
           </h1>
+          <hr className="line"/>
           <h1 className="welcome">
-            Welcome to my website.
+            Thads Egar
           </h1>
         </div>
-        <div className="AboutDiv">
+
+        <div className="Sections">
+        <div className="DivWhite">
           <h1 className="About">
             ABOUT
           </h1>
+          <hr className="line"/>
           <p>
-            My name is Thads Egar. I am a Junior level student at the University of Texas at Dallas currently pursuing my Bachelors Degree in Computer Science.
+            ||This website is currently under construction||* <br/>My name is Thads Michael Egar. <br/> I am a Junior level student at the University of Texas at Dallas pursuing my Bachelors Degree in Computer Science.
+            My main programming language is Java but I am trying to learn more technologies in order to complement my current skill-set.
+            I am interested in Machine Learning and Cloud Services.
+            My other interests include hiking, drawing, listening to podcasts, and learning about the natural universe.
           </p>
         </div>
-        <div className="AboutDiv">
-          <h1 className="About">
-            Projects
+        <div className="DivGrey">
+          <h1 className="Skills">
+            SKILLS
           </h1>
+          <hr className="line"/>
           <p>
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            Below is a brief summary of my skills. If you wish to see more, please feel free to look at my resume up top.
+            <br/>
+            Programming Languages: C++, C, Java, JavaScript, CSS, HTML
+            <br/>
+            Technologies: Git/GitHub, react.js, node.js
+            <br/>
+            Operating Systems: Windows, Linux/Unix, macOS, Android
           </p>
         </div>
-        <div className="AboutDiv">
-          <h1 className="About">
-            ABOUT
+        <div className="DivWhite">
+          <h1 className="Projects">
+              PROJECTS
           </h1>
+          <hr className="line"/>
           <p>
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            COMING SOON
           </p>
         </div>
+        <div className="DivGrey">
+          <h1 className="Projects">
+              EXPERIENCE
+          </h1>
+          <hr className="line"/>
+          <p>
+            COMING SOON
+          </p>
+        </div>
+        </div>
+
       </div>
     );
   }

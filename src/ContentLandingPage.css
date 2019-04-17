@@ -2,6 +2,10 @@
   position: relative;
 }
 
+.line{
+  width: 20%;
+}
+
 /*opaque center*/
 .center{
   padding-top: 150px;
@@ -30,8 +34,27 @@
 }
 
 
-/*about*/
-.AboutDiv{
+/*divs*/
+.Sections p{
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  letter-spacing: .10em;
+  line-height: 2.0;
+  display: inline-block;
+  text-align: center;
+  width: 1000px;
+}
+
+.Sections h1{
+  font-weight: bold;
+  letter-spacing: .1em;
+}
+.DivWhite{
   background-color: white;
+  padding: 10px;
+}
+
+.DivGrey{
+  background-color: rgb(211,211,211);
   padding: 10px;
 }
