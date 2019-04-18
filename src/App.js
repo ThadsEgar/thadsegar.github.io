@@ -1,16 +1,16 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 //components
-import Header from './Header';
-import Footer from './Footer';
-import Youtube from './Youtube';
-import ContentLandingPage from './ContentLandingPage.js';
+import Header from "./Header";
+import Footer from "./Footer";
+import Youtube from "./Youtube";
+import ContentLandingPage from "./ContentLandingPage.js";
 
 //other
-import YouTube from 'react-youtube';
-import {Layout, Navigation, Drawer, Content} from 'react-mdl';
+import YouTube from "react-youtube";
+import { Layout, Navigation, Drawer, Content } from "react-mdl";
 
 class App extends Component {
   render() {

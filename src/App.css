@@ -1,12 +1,12 @@
 .App {
   text-align: center;
-  background-color: rgba(0,0,0,0);
+  background-color: rgba(0, 0, 0, 0);
 }
 
-.Content{
-  background-color: rgba(0,0,0,0);
+.Content {
+  background-color: rgba(0, 0, 0, 0);
 }
 
-.Body{
-  overflow:auto;
+.Body {
+  overflow: auto;
 }
