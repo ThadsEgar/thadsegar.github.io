@@ -61,9 +61,13 @@ class ContentLandingPage extends Component {
                 <div className="HA">
                   <a href="https://www.homeaway.com/">HomeAway</a>
                 </div>
-                <p classname="WorkPositionName">
-                  Software Engineer Intern | June 2019 - August 2019
-                </p>
+                <div className="container">
+                  <div className="WorkInfoLeft">
+                    Software Engineer Intern
+                  </div>
+
+                  <div className="WorkInfoRight">June 2019 - August 2019</div>
+                </div>
                 <p1 classname="WorkDescription">
                   To be filled out during the duration of internship.
                 </p1>
@@ -75,24 +79,27 @@ class ContentLandingPage extends Component {
                 <div className="LU">
                   <a href="https://www.luminant.com/">Luminant</a>
                 </div>
-                <div className="WorkInfo">
-                  <p classname="WorkPositionName">
-                    Advanced Monitoring and Diagnostics Engineer Intern | May
-                    2018 - August 2018
-                  </p>
+                <div className="container">
+                  <div className="WorkInfoLeft">
+                    Adv. Monitoring and Diagnostics Engineer Intern
+                  </div>
+
+                  <div className="WorkInfoRight">May 2018 - August 2018</div>
                 </div>
-                <p1 classname="WorkDescription">
-                  Created power plant Graphical User Interfaces under the
-                  supervision of a Principal Generation Specialist. Used
-                  historic power plant data in order to train predictive models
-                  that allowed the user to detect unusual deviations in
-                  temperature, vibrations, and other sensor values. Collaborated
-                  with 30 Interns along with 7 Engineers in order to encompass
-                  entire fleet of powerplants under the company's juristiction.
-                  The project was sent to and used by Power Opimization Center
-                  in order to prevent potentially catastrophic powerplant
-                  failures.
-                </p1>
+                <div className="WorkDescription">
+                  <p1>
+                    Created power plant Graphical User Interfaces under the
+                    supervision of a Principal Generation Specialist. Used
+                    historic power plant data in order to train predictive
+                    models that allowed the user to detect unusual deviations in
+                    temperature, vibrations, and other sensor values.
+                    Collaborated with 30 Interns along with 7 Engineers in order
+                    to encompass entire fleet of powerplants under the company's
+                    juristiction. The project was sent to and used by Power
+                    Opimization Center in order to prevent potentially
+                    catastrophic powerplant failures.
+                  </p1>
+                </div>
               </div>
             </div>
           </div>

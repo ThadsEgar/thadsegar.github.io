@@ -79,6 +79,7 @@
   font-weight: bold;
   letter-spacing: 0.05em;
   line-height: 0;
+  font-size: 24px;
 
   text-decoration: none;
   color: blue;
@@ -89,15 +90,33 @@
   font-weight: bold;
   letter-spacing: 0.05em;
   line-height: 0;
+  font-size: 24px;
 
   text-decoration: none;
   color: blue;
 }
 
-.WorkPositionName{
-  text-align: center;
+.WorkInfoLeft{
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  line-height: 0;
+
+  text-align: left;
+  display: inline;
+  float:left;
+}
+.WorkInfoRight{
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  line-height: 0;
+
+  text-align: right;
+  display: inline;
+  float:right;
 }
 
-.WorkPositionTime{
+.WorkDescription p1{
   text-align: center;
 }
