@@ -6,6 +6,10 @@
   width: 20%;
 }
 
+.line2 {
+  width: 20%;
+}
+
 /*opaque center*/
 .center {
   padding-top: 150px;
@@ -59,26 +63,41 @@
 }
 
 /*Projects Div*/
-.ExperienceRow1{
+.ExperienceRow{
+
+
 }
 
 .Work{
-  display: inline;
+  margin: auto;
+  width: 800px;
   padding: 20px;
 }
 
-.HA{
+.HA a{
   font-family: "Arial", sans-serif;
   font-weight: bold;
-  letter-spacing: 0.1em;
-  line-height: 2;
+  letter-spacing: 0.05em;
+  line-height: 0;
 
-
+  text-decoration: none;
+  color: blue;
 }
 
-.LU{
+.LU a{
   font-family: "Arial", sans-serif;
   font-weight: bold;
-  letter-spacing: 0.1em;
-  line-height: 2;
+  letter-spacing: 0.05em;
+  line-height: 0;
+
+  text-decoration: none;
+  color: blue;
+}
+
+.WorkPositionName{
+  text-align: center;
+}
+
+.WorkPositionTime{
+  text-align: center;
 }
