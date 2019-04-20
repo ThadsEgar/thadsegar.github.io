@@ -12,6 +12,7 @@ class ContentLandingPage extends Component {
           <h1 className="top">Aspiring Software Engineer</h1>
           <hr className="line" />
           <h1 className="welcome">Thads Egar</h1>
+          <p>This website is currently under construction*</p>
         </div>
 
         <div className="Sections">
@@ -58,7 +59,7 @@ class ContentLandingPage extends Component {
             <hr className="line" />
             <div className="ExperienceRow">
               <div className="Work">
-                <div className="HA">
+                <div className="CompanyName">
                   <a href="https://www.homeaway.com/">HomeAway</a>
                 </div>
                 <div className="container">
@@ -76,7 +77,7 @@ class ContentLandingPage extends Component {
             <hr className="line2" />
             <div className="ExperienceRow">
               <div className="Work">
-                <div className="LU">
+                <div className="CompanyName">
                   <a href="https://www.luminant.com/">Luminant</a>
                 </div>
                 <div className="container">
@@ -89,15 +90,15 @@ class ContentLandingPage extends Component {
                 <div className="WorkDescription">
                   <p1>
                     Created power plant Graphical User Interfaces under the
-                    supervision of a Principal Generation Specialist. Used
+                    supervision of a Principal Generation Specialist.<br /> Used
                     historic power plant data in order to train predictive
                     models that allowed the user to detect unusual deviations in
-                    temperature, vibrations, and other sensor values.
+                    temperature, vibrations, and other sensor values.<br />
                     Collaborated with 30 Interns along with 7 Engineers in order
                     to encompass entire fleet of powerplants under the company's
-                    juristiction. The project was sent to and used by Power
-                    Opimization Center in order to prevent potentially
-                    catastrophic powerplant failures.
+                    juristiction.<br /> The project was sent to and used by Power
+                    Opimization Center in order to prevent potential poweplant asset
+                    degradation.
                   </p1>
                 </div>
               </div>
