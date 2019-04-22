@@ -67,7 +67,7 @@ class ContentLandingPage extends Component {
                     Software Engineer Intern
                   </div>
 
-                  <div className="WorkInfoRight">June 2019 - August 2019</div>
+                  <div className="WorkInfoRight">June 2019 - August 2019*</div>
                 </div>
                 <p1 classname="WorkDescription">
                   To be filled out during the duration of internship.
