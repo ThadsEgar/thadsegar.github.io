@@ -1,14 +1,14 @@
 {
-  "main.css": "/personal-websitev2/static/css/main.545557d4.chunk.css",
-  "main.js": "/personal-websitev2/static/js/main.3c155f4f.chunk.js",
-  "main.js.map": "/personal-websitev2/static/js/main.3c155f4f.chunk.js.map",
-  "runtime~main.js": "/personal-websitev2/static/js/runtime~main.f557aa9a.js",
-  "runtime~main.js.map": "/personal-websitev2/static/js/runtime~main.f557aa9a.js.map",
-  "static/js/2.57c5c8af.chunk.js": "/personal-websitev2/static/js/2.57c5c8af.chunk.js",
-  "static/js/2.57c5c8af.chunk.js.map": "/personal-websitev2/static/js/2.57c5c8af.chunk.js.map",
-  "index.html": "/personal-websitev2/index.html",
-  "precache-manifest.40d6992d79af961530367d96c74fb904.js": "/personal-websitev2/precache-manifest.40d6992d79af961530367d96c74fb904.js",
-  "service-worker.js": "/personal-websitev2/service-worker.js",
-  "static/css/main.545557d4.chunk.css.map": "/personal-websitev2/static/css/main.545557d4.chunk.css.map",
-  "static/media/logo.svg": "/personal-websitev2/static/media/logo.5d5d9eef.svg"
+  "main.css": "/thadsegar.github.com/static/css/main.9f2679be.chunk.css",
+  "main.js": "/thadsegar.github.com/static/js/main.599322fb.chunk.js",
+  "main.js.map": "/thadsegar.github.com/static/js/main.599322fb.chunk.js.map",
+  "runtime~main.js": "/thadsegar.github.com/static/js/runtime~main.d9fec96b.js",
+  "runtime~main.js.map": "/thadsegar.github.com/static/js/runtime~main.d9fec96b.js.map",
+  "static/js/2.92afb3b9.chunk.js": "/thadsegar.github.com/static/js/2.92afb3b9.chunk.js",
+  "static/js/2.92afb3b9.chunk.js.map": "/thadsegar.github.com/static/js/2.92afb3b9.chunk.js.map",
+  "index.html": "/thadsegar.github.com/index.html",
+  "precache-manifest.f1de76bf3339a15a00becb345a06c28f.js": "/thadsegar.github.com/precache-manifest.f1de76bf3339a15a00becb345a06c28f.js",
+  "service-worker.js": "/thadsegar.github.com/service-worker.js",
+  "static/css/main.9f2679be.chunk.css.map": "/thadsegar.github.com/static/css/main.9f2679be.chunk.css.map",
+  "static/media/logo.svg": "/thadsegar.github.com/static/media/logo.5d5d9eef.svg"
 }
